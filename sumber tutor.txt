@@ -1,0 +1,10 @@
+app.css time 2hour 33 minute
+https://www.youtube.com/watch?v=M9n8rjmUz28
+library
+https://inertiajs.com/
+https://tailwindcss.com/
+https://tailwindui.com/
+https://flowbite.com/
+https://daisyui.com/
+https://colorhunt.co/
+https://heroicons.com/
